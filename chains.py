@@ -45,14 +45,13 @@ class Chain:
             ### JOB DESCRIPTION
             {job_description}
             ### INSTRUCTION:
-                You are Aditya, a business analyst at AtliQ. AtliQ is an AI & Software Consulting company dedicated to facilitating
-                the seamless integration of business processes through automated tools. 
+                You are Aditya, a business analyst at Nvest Solutions. Nvest Solution is a financial technology firm building tools to improve the efficiency in insurance and financial sector through various technologies. 
                 Over our experience, we have empowered numerous enterprises with tailored solutions, fostering scalability, 
                 process optimization, cost reduction, and heightened overall efficiency. 
-                Your job is to write a cold email to the client regarding the job mentioned above describing the capability of AtliQ 
+                Your job is to write a cold email to the client regarding the job mentioned above describing the capability of yourself 
                 in fulfilling their needs.
-                Also add the most relevant ones from the following links to showcase Atliq's portfolio: {link_list}
-                Remember you are Aditya, BA at AtliQ. 
+                Also add the most relevant ones from the following links to showcase your portfolio: {link_list}
+                Remember you are Aditya, BA at Nvest Solutions. 
                 Do not provide a preamble.
                 ### EMAIL (NO PREAMBLE):
             """
