@@ -2,7 +2,7 @@ streamlit
 langchain_groq
 dotenv
 langchain_core
-langchain-community==0.2.12
+langchain-community
 pandas
 chromadb
 uuid
