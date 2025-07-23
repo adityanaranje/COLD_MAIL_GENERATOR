@@ -6,3 +6,4 @@ langchain-community
 pandas
 chromadb
 uuid
+pysqlite3-binary
