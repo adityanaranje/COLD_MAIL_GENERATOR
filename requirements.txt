@@ -7,3 +7,4 @@ pandas
 chromadb
 uuid
 pysqlite3-binary
+bs4
