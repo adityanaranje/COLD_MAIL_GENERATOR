@@ -1,0 +1,51 @@
+Skills,Project URL
+"Python, Flask, REST APIs, SQL, Docker",https://projects.example.com/project1
+"JavaScript, React, Redux, CSS, HTML",https://projects.example.com/project2
+"Java, Spring Boot, MySQL, REST, Maven",https://projects.example.com/project3
+"Node.js, Express, MongoDB, JWT, GraphQL",https://projects.example.com/project4
+"Swift, iOS, UIKit, CoreData, Firebase",https://projects.example.com/project5
+"Kotlin, Android, Jetpack, Room, Retrofit",https://projects.example.com/project6
+"Python, Django, PostgreSQL, Celery, Redis",https://projects.example.com/project7
+"TypeScript, Angular, RxJS, SCSS, NGRX",https://projects.example.com/project8
+"PHP, Laravel, MySQL, Blade, Composer",https://projects.example.com/project9
+"C#, .NET Core, Entity Framework, LINQ, SQL Server",https://projects.example.com/project10
+"Python, Machine Learning, Pandas, Scikit-learn, Jupyter",https://projects.example.com/project11
+"JavaScript, Vue.js, Vuex, Tailwind CSS, Axios",https://projects.example.com/project12
+"Ruby, Ruby on Rails, PostgreSQL, RSpec, Capybara",https://projects.example.com/project13
+"HTML, CSS, Bootstrap, jQuery, Git",https://projects.example.com/project14
+"Go, Gin, GORM, MySQL, REST",https://projects.example.com/project15
+"C++, OpenCV, Computer Vision, CUDA, TensorRT",https://projects.example.com/project16
+"Python, Data Analysis, NumPy, Matplotlib, Excel",https://projects.example.com/project17
+"R, ggplot2, Shiny, Tidyverse, Data Wrangling",https://projects.example.com/project18
+"JavaScript, Three.js, WebGL, GLSL, Canvas",https://projects.example.com/project19
+"Python, FastAPI, Pydantic, AsyncIO, Uvicorn",https://projects.example.com/project20
+"MATLAB, Signal Processing, Simulink, DSP, Control Systems",https://projects.example.com/project21
+"React Native, Expo, Firebase, REST API, Push Notifications",https://projects.example.com/project22
+"Python, TensorFlow, Deep Learning, CNN, Keras",https://projects.example.com/project23
+"C, Embedded Systems, STM32, UART, FreeRTOS",https://projects.example.com/project24
+"Bash, Linux, Shell Scripting, Crontab, AWK",https://projects.example.com/project25
+"Scala, Apache Spark, Kafka, HDFS, Big Data",https://projects.example.com/project26
+"Unity, C#, Game Development, 3D Modeling, Physics",https://projects.example.com/project27
+"Python, NLP, Transformers, Hugging Face, spaCy",https://projects.example.com/project28
+"Tableau, SQL, Data Visualization, Dashboards, KPIs",https://projects.example.com/project29
+"React, Next.js, Server-Side Rendering, Tailwind CSS, Vercel",https://projects.example.com/project30
+"Java, Android Studio, Firebase, MVVM, LiveData",https://projects.example.com/project31
+"AWS, Terraform, EC2, Lambda, CloudFormation",https://projects.example.com/project32
+"Git, CI/CD, Jenkins, Docker, Kubernetes",https://projects.example.com/project33
+"HTML, CSS, Figma, Webflow, Responsive Design",https://projects.example.com/project34
+"Python, Web Scraping, BeautifulSoup, Selenium, Requests",https://projects.example.com/project35
+"Solidity, Ethereum, Smart Contracts, Web3.js, Remix",https://projects.example.com/project36
+"Rust, WASM, WebAssembly, Systems Programming, CLI",https://projects.example.com/project37
+"C++, Unreal Engine, Blueprint, Game Physics, AI",https://projects.example.com/project38
+"JavaScript, D3.js, Data Visualization, SVG, JSON",https://projects.example.com/project39
+"C#, ASP.NET MVC, Razor, Entity Framework, SQL",https://projects.example.com/project40
+"Objective-C, iOS, Core Animation, Xcode, AVFoundation",https://projects.example.com/project41
+"Python, Bioinformatics, BLAST, Biopython, FASTA",https://projects.example.com/project42
+"Flutter, Dart, Firebase, Cross-platform, BLoC",https://projects.example.com/project43
+"Perl, Regex, Scripting, Legacy Code, Data Parsing",https://projects.example.com/project44
+"HTML, CSS Grid, Flexbox, Sass, Accessibility",https://projects.example.com/project45
+"COBOL, Mainframe, JCL, DB2, Legacy Systems",https://projects.example.com/project46
+"Power BI, DAX, ETL, Data Modeling, Reporting",https://projects.example.com/project47
+"Julia, Scientific Computing, DataFrames.jl, Plots.jl, JuMP",https://projects.example.com/project48
+"SQL, Snowflake, Data Warehousing, ELT, dbt",https://projects.example.com/project49
+"Python, Chatbots, LangChain, LLMs, OpenAI API",https://projects.example.com/project50
