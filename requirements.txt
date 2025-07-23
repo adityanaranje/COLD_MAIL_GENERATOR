@@ -6,4 +6,3 @@ langchain-community
 pandas
 chromadb
 uuid
-re
